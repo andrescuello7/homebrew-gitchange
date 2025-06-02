@@ -2,7 +2,7 @@ class Gitchange < Formula
     desc "This is program for change of account to Git"
     homepage "https://github.com/andrescuello7/gitchange"
     url "https://github.com/andrescuello7/gitchange/archive/refs/tags/v0.1.1.tar.gz"
-    sha256 "0d86f4eafc6de4f805ead0fb9fdc0ca10e63484aa07e8e373656d8ba35902e11"
+    sha256 "d15a79c63fd92dac0642d5c4e5671be14786fd79007173aedc0fd4dde1d56881"
     license "MIT"
   
     def install
